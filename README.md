@@ -25,3 +25,7 @@ The website is designed to be responsive, meaning it adapts and looks good on va
 ## Why Use This Website
 
 This employee work portfolio website is a valuable tool for Yohan Perera to present his skills, projects, and contact information in a professional and visually appealing manner. It serves as a hub where potential employers, collaborators, or anyone interested in Yohan's work can learn about his background, explore his projects, and easily get in touch. By showcasing his work in a portfolio format, in order to increases the chances of attracting opportunities and collaborations in career journey.
+
+## Website: https://yperera20.github.io/Employee-work-portfolio/
+
+![Alt text](image.png)
